@@ -3,14 +3,12 @@ venv/
 __pycache__/
 *.pyc
 
-# dados sensíveis
-data/
-*.xlsx
-*.csv
+# dados sensíveis (específico)
+data/BD_07_2025.xlsx
 
 # saídas do projeto
 
 
-# arquivos temporários
+# temporários
 .DS_Store
 Thumbs.db
