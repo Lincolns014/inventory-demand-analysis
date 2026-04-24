@@ -1,0 +1,16 @@
+# ambiente
+venv/
+__pycache__/
+*.pyc
+
+# dados sensíveis
+data/
+*.xlsx
+*.csv
+
+# saídas do projeto
+
+
+# arquivos temporários
+.DS_Store
+Thumbs.db
